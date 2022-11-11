@@ -16,5 +16,5 @@
 ## Пользователи
 Пользователи по умолчанию:
 * ```name: "admin", password: "qwerty123", role: "admin"```
-* ```name: "test", password: "123"}, role: "user"```
+* ```name: "test", password: "123", role: "user"```
 --- 
